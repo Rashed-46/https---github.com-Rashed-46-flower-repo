@@ -1,0 +1,164 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+* {
+    font-family: Lato;
+}
+
+section {
+    padding-bottom: 100px;
+}
+
+.main {
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 150px 0px 80px;
+
+}
+
+.para {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+}
+
+.des {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.btn {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+}
+
+.image {
+    width: 500px;
+    height: 700px;
+
+
+}
+
+.heading {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.banner-para {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0px 420px 0px 420px;
+}
+
+.flower {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 24px 250px 0px 250px;
+    gap: 20px;
+
+}
+
+.flower-1 {
+    width: 464px;
+    height: 538px;
+
+}
+
+.image-des {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    padding-top: 32px;
+}
+
+.image1 {
+
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 110px 78px 0px 78px;
+}
+
+.image2 {
+
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 117px 47px 51px 47px;
+}
+
+.image3 {
+
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 67px 75px 0px 75px;
+}
+
+
+
+.services {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 128px 150px;
+
+
+}
+
+.service-1st {
+    padding: 80px 70px 24px 70px;
+}
+
+,
+services-text {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.sales-up {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    gap: 150px;
+
+
+}
+
+.hot-deal {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.hot-des {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+.heading{
+    padding-left: 150px;
+}
+.red-flower{
+    padding-right: 250px;
+}
