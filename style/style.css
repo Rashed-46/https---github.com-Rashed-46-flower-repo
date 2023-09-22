@@ -156,9 +156,55 @@ services-text {
     font-size: 18px;
     font-weight: 400;
 }
-.heading{
+
+.heading {
     padding-left: 150px;
 }
-.red-flower{
+
+.red-flower {
     padding: 100px 250px 100px 0px;
+}
+
+.features {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px 300px 130px 300px;
+    gap: 10px;
+}
+
+.subcribe {
+    background-image: url("../Rectangle\ 9.png");
+    margin: 0px 80px 0px 80px;
+
+
+}
+
+.heading1 {
+    padding-top: 120px;
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.input1 {
+    text-align: center;
+    width: 700px;
+    height: 50px;
+    padding-left: 0px;
+    border-radius: 8px;
+    background: #FFF;
+    margin-left: 220px;
+
+}
+
+.btn1 {
+    width: 150px;
+    height: 55px;
+    border-radius: 8px;
+    background: #E55473;
+    margin-bottom: 100px;
+
 }
